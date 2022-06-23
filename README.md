@@ -1,1 +1,1 @@
-# -django-zuriID
+# django-zuriID
